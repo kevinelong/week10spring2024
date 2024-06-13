@@ -1,0 +1,38 @@
+Software Architect - KEVIN ERNEST LONG, KevinELong@gmail.com 503.888.6879
+
+
+TECHNICAL SKILLS
+===
+LANGUAGES: Python, NodeJS, JavaScript, HTML, CSS, BootStrap
+TOOLS: VSCODE(Microsoft Visual Studio Code), GITLENS, Jetbrains WebStorm
+UTILITIES: Git, GitHub, GitHub Projects, Trello, JIRA
+CLOUD: AWS (Amazon Web Services), GCP (Google Cloud Provider), Microsoft Azure
+OFFICE: Microsoft Office, Microsoft PowerPoint, Microsoft PowerPoint
+COLLABORATION: Microsoft Teams, Zoom, Slack, GitHub Project, Trello, JIRA
+
+SOFT SKILLS:
+    Collaboration with Remote Teams, Leadership, Scrum Master
+    Planning and Project Management
+
+CERTIFICATIONS: LinkedIn: HTML, CSS/BootStrap, JavaScript, SQL(Structured Query Language)
+WEB FRAMEWORKS: Vue, Angualar 16, ReactJS
+SERVER FRAMEWORKS: Express, Django
+MOBILE FRAMEWORKS: ReactNative, 
+DATABASES: NO-SQL: (MondgoDB, Firebase, JSON-TEXT), SQL RDBMS ( Micosoft SQL Server, MySQL, PostgresSQL)
+
+PROJECTS:
+    ANIME BLOG - Fullstack( Postgres SQL, REST API Express, JAVASCRIPT VuesJS, HTML CSS/BootStrap)
+    ANIME BLOG - Fullstack( Postgres SQL, REST API Express, JAVASCRIPT VuesJS, HTML CSS/BootStrap)
+    ANIME BLOG - Fullstack( Postgres SQL, REST API Express, JAVASCRIPT VuesJS, HTML CSS/BootStrap)
+    ANIME BLOG - Fullstack( Postgres SQL, REST API Express, JAVASCRIPT VuesJS, HTML CSS/BootStrap)
+
+EDUCATION:
+    YearUP...
+    FacebookMeta: DEV2024 Conferences 
+    JbFair ...
+    DevOps Meetups
+    Ania Kubo - JavaScript
+
+EXPERIENCE:
+    Ten years of experience in food service and hosiplatiy including:
+        StarBucks and Mariott...
